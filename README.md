@@ -83,6 +83,8 @@ We're building the intelligence layer for hardware — real-time systems that co
 5. GitHub or GitLab link
 6. Confirmation of work authorization in the U.S.
 7. Confirmation of willingness to work full-time, in-person in San Francisco
-8. Education background
 
 **Attach:** PDF resume
+
+
+
