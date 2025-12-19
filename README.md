@@ -1,4 +1,4 @@
-# Founding Engineer – Systems, Kernels, and Embedded AI
+# Founding Engineer – Computer Systems Engineer
 
 **Location:** San Francisco (Onsite)  
 **Type:** Full-time  
@@ -27,6 +27,7 @@
 - Compilers, program analysis, advanced debugging/instrumentation
 - Microcontrollers and low-level protocols (UART, I2C, SPI, JTAG, etc.)
 - Systems programming in C/C++ and Python
+- Strong knowledge and experience with computer systems design and engineers
 
 **Familiarity with:**
 
